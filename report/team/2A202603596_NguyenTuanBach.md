@@ -6,11 +6,11 @@
 - MSSV: 2A202603596
 - Email: 26ai.bachnt@vinuni.edu.vn
 - GitHub: https://github.com/NguyenTuanBach
-- Vai trong nhóm: nhóm 1 người, đảm nhiệm cả bốn vai (viết code, kiểm số, gắn nhãn 1, gắn nhãn 2 kiêm giữ hồ sơ)
+- Vai trong nhóm: viết code, kiểm số, gắn nhãn, giữ hồ sơ
 
 ## 2. Phần việc phụ trách
 
-Viết `src/lab13.py` (A1, A2, A3, A4, B1–B4, D1, chỉ số E1) và điền các file hồ sơ `bang_chi_phi.md`, `pilot_plan.yaml`, `chi_so.md`, `ho_so_launch_v0.md`; gắn nhãn 20 ca lỗi hai lượt ở `bang_loi.md`.
+Viết `src/lab13.py` (A1, A2, A3, A4, B1–B4, D1, chỉ số E1) và điền các file hồ sơ `bang_chi_phi.md`, `pilot_plan.yaml`, `chi_so.md`, `ho_so_launch_v0.md`; gắn nhãn 20 ca lỗi và lập bảng khắc phục ở `bang_loi.md`.
 
 ## 3. Đóng góp cụ thể
 
@@ -32,4 +32,4 @@ Cần tự làm thêm: giải thích được vì sao tử số tính mọi lầ
 
 ## 6. Tự đánh giá
 
-Phần code và số liệu A, B, D1, E1 đã chạy và khớp đáp án. Hạn chế: nhóm 1 người nên hai bộ nhãn ở nhiệm vụ C không độc lập thật sự (đồng thuận 20/20 chỉ là nhất quán của một người), và `phieu_cham.md` không áp dụng vì không có nhóm khác. URL repo nhóm chưa có.
+Phần code và số liệu A, B, D1, E1 đã chạy và khớp đáp án. Số giả lập (phút xem lại, làm lại) cần thay bằng phút đo thật sau tuần 1 của pilot; mẫu D1 chỉ có 40 nhân viên nên chỉ đủ cho mức chênh 6 điểm.

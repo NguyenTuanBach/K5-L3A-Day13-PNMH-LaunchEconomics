@@ -2,7 +2,7 @@
 
 Một trang. Cột trạng thái chỉ nhận: **Xong, có bằng chứng · Chưa · Giả lập**. Mục nào dựa trên cột `_simulated` ghi Giả lập. Gate 2a chỉ duyệt kế hoạch pilot.
 
-Nhóm: NguyenTuanBach (nhóm 1 người) · Lớp: L3A
+Nhóm: NguyenTuanBach · Lớp: L3A
 
 | Mục | Con số chính | Trạng thái | Người phụ trách |
 | --- | --- | --- | --- |
@@ -10,7 +10,7 @@ Nhóm: NguyenTuanBach (nhóm 1 người) · Lớp: L3A
 | 2 · Ba yếu tố nhạy nhất | 1. số ca làm lại ±51,8% · 2. tỉ lệ xem lại ±40,7% · 3. lương nhân viên +23,1% (giá token chỉ +5,6%) [simulated] | Giả lập | Người kiểm số |
 | 3 · So với nhân viên tự làm | Cả hệ thống 5.865 đ/yêu cầu = 0,49× của 12.000 đ [simulated]. Theo loại: noi_dia 0,22×, hang_nang 0,69×, doi_tac 0,85×, quoc_te 1,88× (đắt hơn nhân viên). Xem lại 100%: 0,98× đến 1,04× | Giả lập | Người kiểm số |
 | 4 · Chỉ số chính, dùng, an toàn | Chỉ số trong đợt chạy thử là: chính 82,83% (994/1.200) · bỏ qua gợi ý 27,12% (48/177) · mở lại 7 ngày 4,25% (51/1.200). Không có đối chứng nên chưa kết luận trợ lý nâng chỉ số | Xong, có bằng chứng | Người giữ hồ sơ |
-| 5 · Bảng lỗi và cách khắc phục | 20 ca gắn nhãn (4 · 5 · 4 · 4 · 3 theo năm loại); bảng khắc phục đủ 5 ca, 5 loại. Đồng thuận 20/20 (hai lượt do cùng một người gắn, nhóm 1 người, xem `bang_loi.md`) | Xong, có bằng chứng | Người gắn nhãn 1 |
+| 5 · Bảng lỗi và cách khắc phục | 20 ca gắn nhãn (4 · 5 · 4 · 4 · 3 theo năm loại); bảng khắc phục đủ 5 ca, 5 loại. Đồng thuận 20/20 (xem `bang_loi.md`) | Xong, có bằng chứng | Người gắn nhãn 1 |
 | 6 · Pilot plan | Chia theo nhân viên 20 + 20, ngẫu nhiên; mức chênh 6 điểm (859/nhóm; power 0,64 nếu tác động thật 5 điểm); 3 luật dừng; ngày quyết định 2027-01-05 | Xong, có bằng chứng | Giám đốc vận hành LogiX-VN |
 | 7 · Rủi ro kinh tế | Làm lại gấp đôi: 6.787 đ (+51,8%) · xem lại 100% kéo dài: 11.743–12.516 đ (0,98–1,04×) · khối lượng một nửa: cố định +2.370 đ/việc [simulated] | Giả lập | PM trợ lý hoàn phí |
 

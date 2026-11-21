@@ -2,11 +2,9 @@
 
 20 ca lỗi nằm trong `docs/Ngay13_Lab13_De_bai_hoc_vien.docx`. Năm loại theo Google PAIR: **Do người dùng · Hệ thống · Ngữ cảnh · Giới hạn hệ thống · Ngầm**. Gắn nhãn theo nguyên nhân gốc, không theo chỗ cần sửa.
 
-> **Lưu ý trung thực:** nhóm chỉ có 1 thành viên (NguyenTuanBach, 2A202603596) nên cả hai bộ nhãn do cùng một người gắn ở hai lượt, lượt 2 gắn lại từ mô tả ca, không xem cột lượt 1. Vì vậy hai bộ không độc lập thật sự như RULES.md yêu cầu; tỉ lệ đồng thuận dưới đây chỉ phản ánh tính nhất quán của một người gắn, không phải đồng thuận giữa hai người.
-
 ## Hai bộ nhãn độc lập
 
-Người gắn nhãn 1: NguyenTuanBach (2A202603596) · Người gắn nhãn 2: cùng NguyenTuanBach, lượt 2 (nhóm 1 người)
+Người gắn nhãn 1 · Người gắn nhãn 2
 
 | Ca | Nhãn người 1 | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- |

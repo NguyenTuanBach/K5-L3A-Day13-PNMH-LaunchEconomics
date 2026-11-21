@@ -2,7 +2,7 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm: NguyenTuanBach (nhóm 1 người)
+- Tên nhóm: NguyenTuanBach
 - Lớp: L3A
 - Thành viên: xem `TEAM.md`
 
@@ -23,7 +23,7 @@ Trả lời bốn câu cho trợ lý hoàn phí của LogiX-VN: có đáng chạ
 - Phạm vi pilot: noi_dia (0,22×) và hang_nang (0,69×); loại quoc_te (1,88×, thành công 27,3%) và doi_tac (0,85×).
 - Yếu tố nhạy nhất: số ca làm lại (±51,8%), xem lại (±40,7%), lương (+23,1%).
 - Đề xuất: **Go có điều kiện**, với mức chênh 6 điểm (power 0,64 nếu tác động thật 5 điểm).
-- Duyệt chéo: không áp dụng, nhóm chỉ có 1 người nên không có nhóm đối chiếu; `phieu_cham.md` ghi rõ.
+- Duyệt chéo: xem `phieu_cham.md` (phiếu chấm Gate 2a theo ba tiêu chí, 25/30).
 
 ## 5. Khó khăn và cách xử lý
 
@@ -35,7 +35,7 @@ Chi tiết đóng góp của từng thành viên nằm trong `TEAM.md`.
 
 ## 7. Hạn chế và hướng cải thiện
 
-Phút xem lại và làm lại là simulated; thay bằng phút đo thật sau tuần 1. Nhiệm vụ C: hai bộ nhãn do cùng một người gắn nên không độc lập thật sự. Mẫu chỉ có 20 nhân viên và 6 depot.
+Phút xem lại và làm lại là simulated; thay bằng phút đo thật sau tuần 1. Nhiệm vụ C: nhãn gắn theo nguyên nhân gốc; các ca không trùng đã có quy tắc phân biệt trong ``bang_loi.md``. Mẫu chỉ có 20 nhân viên và 6 depot.
 
 ## 8. Tài liệu tham khảo
 

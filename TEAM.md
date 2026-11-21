@@ -2,16 +2,16 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm: NguyenTuanBach (nhóm 1 người)
+- Tên nhóm: NguyenTuanBach
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY13-NguyenTuanBach-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: chưa có URL repo nhóm (điền sau khi tạo repo); nhánh `lab13/nguyentuanbach-2A202603596`
+- URL repo, nhánh nộp, commit chốt: https://github.com/NguyenTuanBach/K5-L3A-Day13-PNMH-Lab; nhánh `lab13/nguyentuanbach-2A202603596`
 
 ## Thành viên
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Nguyen Tuan Bach | 2A202603596 | 26ai.bachnt@vinuni.edu.vn | https://github.com/NguyenTuanBach | Người viết code, kiểm số, gắn nhãn 1 và 2, giữ hồ sơ (nhóm 1 người) |
+|   1 | Nguyen Tuan Bach | 2A202603596 | 26ai.bachnt@vinuni.edu.vn | https://github.com/NguyenTuanBach | Người viết code, kiểm số, gắn nhãn 1 và 2, giữ hồ sơ |
 
 Bốn vai của lab:
 
@@ -33,20 +33,6 @@ report/team/MSSV_HoTen.md
 Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 Sao chép mục dưới đây cho từng thành viên.
-
-## HoVaTen-MSSV
-
-### Phần việc phụ trách
-
--
-
-### Đóng góp cụ thể
-
--
-
-### Bằng chứng
-
--
 
 ## Nguyen Tuan Bach - 2A202603596
 
