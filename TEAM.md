@@ -2,8 +2,8 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Lớp: L3A hoặc L3B
+- Tên nhóm: NguyenTuanBach (nhóm 1 người)
+- Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY13-TenNhom-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
 - URL repo, nhánh nộp, commit chốt:
 
@@ -11,7 +11,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
+|   1 | Nguyen Tuan Bach | 2A202603596 |       |        | Người viết code, kiểm số, gắn nhãn 1 và 2, giữ hồ sơ (nhóm 1 người) |
 |   2 |        |      |       |        |         |
 |   3 |        |      |       |        |         |
 |   4 |        |      |       |        |         |
@@ -50,3 +50,17 @@ Sao chép mục dưới đây cho từng thành viên.
 ### Bằng chứng
 
 -
+
+## Nguyen Tuan Bach - 2A202603596
+
+### Phần việc phụ trách
+
+- Người viết code: `src/lab13.py`, `report/team/bang_chi_phi.md`, `pilot_plan.yaml`, `chi_so.md`, `ho_so_launch_v0.md`.
+
+### Đóng góp cụ thể
+
+- Viết A1, `mo_hinh`, độ nhạy B1–B4, cỡ mẫu D1; gắn nhãn 20 ca lỗi (bộ nhãn người 1).
+
+### Bằng chứng
+
+- `cd src && python lab13.py` in ba phép thử ĐẠT; báo cáo cá nhân `report/team/2A202603596_NguyenTuanBach.md`.
