@@ -4,17 +4,14 @@
 
 - Tên nhóm: NguyenTuanBach (nhóm 1 người)
 - Lớp: L3A
-- Repo nhóm: `K5-L3A-DAY13-TenNhom-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+- Repo nhóm: `K5-L3A-DAY13-NguyenTuanBach-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
+- URL repo, nhánh nộp, commit chốt: chưa có URL repo nhóm (điền sau khi tạo repo); nhánh `lab13/nguyentuanbach-2A202603596`
 
 ## Thành viên
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Nguyen Tuan Bach | 2A202603596 |       |        | Người viết code, kiểm số, gắn nhãn 1 và 2, giữ hồ sơ (nhóm 1 người) |
-|   2 |        |      |       |        |         |
-|   3 |        |      |       |        |         |
-|   4 |        |      |       |        |         |
 
 Bốn vai của lab:
 

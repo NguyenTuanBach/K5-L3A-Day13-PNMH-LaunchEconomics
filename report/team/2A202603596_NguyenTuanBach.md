@@ -4,7 +4,7 @@
 
 - Họ tên: Nguyen Tuan Bach
 - MSSV: 2A202603596
-- Email: ...
+- Email: (chưa điền; tự điền khi nộp)
 - Vai trong nhóm: nhóm 1 người, đảm nhiệm cả bốn vai (viết code, kiểm số, gắn nhãn 1, gắn nhãn 2 kiêm giữ hồ sơ)
 
 ## 2. Phần việc phụ trách
