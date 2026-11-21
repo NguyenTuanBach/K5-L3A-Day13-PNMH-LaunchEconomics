@@ -4,7 +4,8 @@
 
 - Họ tên: Nguyen Tuan Bach
 - MSSV: 2A202603596
-- Email: (chưa điền; tự điền khi nộp)
+- Email: 26ai.bachnt@vinuni.edu.vn
+- GitHub: https://github.com/NguyenTuanBach
 - Vai trong nhóm: nhóm 1 người, đảm nhiệm cả bốn vai (viết code, kiểm số, gắn nhãn 1, gắn nhãn 2 kiêm giữ hồ sơ)
 
 ## 2. Phần việc phụ trách
@@ -31,4 +32,4 @@ Cần tự làm thêm: giải thích được vì sao tử số tính mọi lầ
 
 ## 6. Tự đánh giá
 
-Phần code và số liệu A, B, D1, E1 đã chạy và khớp đáp án. Hạn chế: nhóm 1 người nên hai bộ nhãn ở nhiệm vụ C không độc lập thật sự (đồng thuận 20/20 chỉ là nhất quán của một người), và `phieu_cham.md` không áp dụng vì không có nhóm khác. Email, GitHub, URL repo chưa điền.
+Phần code và số liệu A, B, D1, E1 đã chạy và khớp đáp án. Hạn chế: nhóm 1 người nên hai bộ nhãn ở nhiệm vụ C không độc lập thật sự (đồng thuận 20/20 chỉ là nhất quán của một người), và `phieu_cham.md` không áp dụng vì không có nhóm khác. URL repo nhóm chưa có.

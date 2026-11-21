@@ -11,7 +11,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Nguyen Tuan Bach | 2A202603596 |       |        | Người viết code, kiểm số, gắn nhãn 1 và 2, giữ hồ sơ (nhóm 1 người) |
+|   1 | Nguyen Tuan Bach | 2A202603596 | 26ai.bachnt@vinuni.edu.vn | https://github.com/NguyenTuanBach | Người viết code, kiểm số, gắn nhãn 1 và 2, giữ hồ sơ (nhóm 1 người) |
 
 Bốn vai của lab:
 
